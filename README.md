@@ -16,11 +16,15 @@ Currently, I am diving deeper into areas like algorithms, data-center scale comp
 
 ## Honors and Awards
 
-Smart India Hackathon : Winner of National-Level Hackathon, awarded by Govt of India under National Crime Records Bureau.
-Recognition from JPMorgan Chase & Co. : Rewards and Recognition Recipient from Head of Technology for Chase Digital Banking
-GE HealthCare Precision Hack Top 8 : Awarded by GE HealthCare for building a hospital automation system for hassle-free booking of appointments and resource allocation inside a hospital.
-Reverie Hack Winner: Awarded by Reverie Technologies for developing a flutter app to remove the language barriers between the retailers & customers using Natural Language Processing.
-FAER McAfee Scholar : Developed a web app to identify authorship, prevent fraudulent transactions and cyber crimes by using efficient machine learning algorithms.
+**Smart India Hackathon** : Winner of National-Level Hackathon, awarded by Govt of India under National Crime Records Bureau.
+
+**Recognition from JPMorgan Chase & Co.** : Rewards and Recognition Recipient from Head of Technology for Chase Digital Banking.
+
+**GE HealthCare Precision Hack Top 8** : Awarded by GE HealthCare for building a hospital automation system for hassle-free booking of appointments and resource allocation inside a hospital.
+
+**Reverie Hack Winner**: Awarded by Reverie Technologies for developing a flutter app to remove the language barriers between the retailers & customers using Natural Language Processing.
+
+**FAER McAfee Scholar** : Developed a web app to identify authorship, prevent fraudulent transactions and cyber crimes by using efficient machine learning algorithms.
 
 ## Projects and Publications
 
