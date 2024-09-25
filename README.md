@@ -2,7 +2,7 @@
 
 ## About me
 
-###
+
 I am Ujwal Karippali Chandran, a Master’s student in Computer Science at the University of Colorado Boulder, with a passion for building efficient, scalable systems.
 
 With over three years of experience as a Software Engineer at JPMorgan Chase, I specialized in designing microservices and user interfaces that improved customer experiences. My fast-track promotion to Software Engineer II and recognition as part of the top 4% globally at Chase reflect my strong technical abilities and dedication to driving results.
