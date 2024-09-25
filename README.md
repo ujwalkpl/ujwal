@@ -28,18 +28,18 @@ Currently, I am diving deeper into areas like algorithms, data-center scale comp
 
 ## Projects and Publications
 
-Police Patrolling Optimization : Developed an algorithm for optimizing police patrol routes by prioritizing locations
+**Police Patrolling Optimization** : Developed an algorithm for optimizing police patrol routes by prioritizing locations
 based on crime records, the presence of banks and schools. Integrated data from a machine learning model into a
 customized Travelling Salesman Algorithm to determine the most efficient patrol path.
 
-Student Buddy : Spearheaded a project to automate the distribution of study materials and college event updates to
+**Student Buddy** : Spearheaded a project to automate the distribution of study materials and college event updates to
 students. This system efficiently populates the database with real-time event information by aggregating data from class
 social media groups. Tech Stack: Python, Selenium, MySQL, Java Servlets, JSPs
 
-Detection of Covid-19 through cough and breathing sounds using CNN:
+**Detection of Covid-19 through cough and breathing sounds using CNN**:
 By employing an ensemble of Convolutional Neural Networks, cough, breathing, and speech sounds were analyzed to
 determine if a person is infected with COVID-19, achieving an accuracy of 88.75%.
 
-Optimizing Hospital-Patient Interactions through Advanced ML and NLP Link
+**Optimizing Hospital-Patient Interactions through Advanced ML and NLP Link**
 Engineered a hospital automation system using Feed forward neural network and a BERT-based NLP summarizer to
 streamline appointment booking and optimize resource allocation within the healthcare facility.
