@@ -1,6 +1,4 @@
-# Hello, I am Ujwal!
-
-## About me
+# About me
 
 
 I am Ujwal Karippali Chandran, a Master’s student in Computer Science at the University of Colorado Boulder, with a passion for building efficient, scalable systems.
@@ -13,8 +11,12 @@ I enjoy working on innovative projects, such as developing algorithms to optimiz
 
 Currently, I am diving deeper into areas like algorithms, data-center scale computing, and natural language processing. In addition to my academic and professional work
 
+# Fine me on
+* [Github](https://github.com/ujwalkpl)
+* [LinkedIn](https://www.linkedin.com/in/ujwalkc)
 
-## Honors and Awards
+
+# Honors and Awards
 
 **Smart India Hackathon** : Winner of National-Level Hackathon, awarded by Govt of India under National Crime Records Bureau.
 
@@ -26,7 +28,7 @@ Currently, I am diving deeper into areas like algorithms, data-center scale comp
 
 **FAER McAfee Scholar** : Developed a web app to identify authorship, prevent fraudulent transactions and cyber crimes by using efficient machine learning algorithms.
 
-## Projects and Publications
+# Projects and Publications
 
 **Police Patrolling Optimization** : Developed an algorithm for optimizing police patrol routes by prioritizing locations
 based on crime records, the presence of banks and schools. Integrated data from a machine learning model into a
