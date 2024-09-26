@@ -11,7 +11,7 @@ I enjoy working on innovative projects, such as developing algorithms to optimiz
 
 Currently, I am diving deeper into areas like algorithms, data-center scale computing, and natural language processing. In addition to my academic and professional work
 
-# Fine me on
+# Find me on
 * [Github](https://github.com/ujwalkpl)
 * [LinkedIn](https://www.linkedin.com/in/ujwalkc)
 
