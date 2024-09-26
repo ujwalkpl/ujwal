@@ -18,15 +18,15 @@ Currently, I am diving deeper into areas like algorithms, data-center scale comp
 
 # Honors and Awards
 
-[**Smart India Hackathon**](https://www.sih.gov.in) : Winner of National-Level Hackathon, awarded by Govt of India under National Crime Records Bureau.
+[Smart India Hackathon](https://www.sih.gov.in) : Winner of National-Level Hackathon, awarded by Govt of India under National Crime Records Bureau.
 
-[**Recognition from JPMorgan Chase & Co.**](https://www.jpmorganchase.com) : Rewards and Recognition Recipient from Head of Technology for Chase Digital Banking.
+[Recognition from JPMorgan Chase & Co](https://www.jpmorganchase.com) : Rewards and Recognition Recipient from Head of Technology for Chase Digital Banking.
 
-[**GE HealthCare Precision Hack Top 8**](https://www.facebook.com/GEHCIndia/posts/the-celebrated-28-hour-pan-india-precision-health-challenge-2020-hackathon-culmi/2928591087198801/) : Awarded by GE HealthCare for building a hospital automation system for hassle-free booking of appointments and resource allocation inside a hospital.
+[GE HealthCare Precision Hack Top 8](https://www.facebook.com/GEHCIndia/posts/the-celebrated-28-hour-pan-india-precision-health-challenge-2020-hackathon-culmi/2928591087198801/) : Awarded by GE HealthCare for building a hospital automation system for hassle-free booking of appointments and resource allocation inside a hospital.
 
-[**Reverie Hack Winner**](https://language-hackathon.devpost.com): Awarded by Reverie Technologies for developing a flutter app to remove the language barriers between the retailers & customers using Natural Language Processing.
+[Reverie Hack Winner](https://language-hackathon.devpost.com): Awarded by Reverie Technologies for developing a flutter app to remove the language barriers between the retailers & customers using Natural Language Processing.
 
-[**FAER McAfee Scholar**](https://www.faer.ac.in/faer) : Developed a web app to identify authorship, prevent fraudulent transactions and cyber crimes by using efficient machine learning algorithms.
+[FAER McAfee Scholar](https://www.faer.ac.in/faer) : Developed a web app to identify authorship, prevent fraudulent transactions and cyber crimes by using efficient machine learning algorithms.
 
 # Projects and Publications
 
